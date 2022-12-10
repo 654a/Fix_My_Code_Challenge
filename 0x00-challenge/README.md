@@ -1,5 +1,5 @@
 
-You have a captain's log due before 2022-12-11 (in about 22 hours)! Log it now!
+u have a captain's log due before 2022-12-11 (in about 22 hours)! Log it now!
 0x00. Fix my code
 Debugging
  By: Guillaume
